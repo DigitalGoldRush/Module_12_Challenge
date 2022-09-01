@@ -1,6 +1,5 @@
 # Module_12_Challenge
 Supervised Machine Learning
-# Module_10_Challenge
 
 ## Unsupervised Machine Learning: A novel approach to investment portfolios based on cryptocurrencies
 
