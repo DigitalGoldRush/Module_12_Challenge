@@ -2,7 +2,7 @@
 
 ## Supervised Machine Learning: Building a logistic regression model to identify creditworthiness of borrowers.
 ---
-<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="left" height="500" width="450" ></a>
+<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="center height="500" width="450" ></a>
 
 ### Using an imbalanced-learn library to compare two versions of the dataset using a logistic regression model:
   - ### Get a count of the target classes
@@ -20,12 +20,14 @@
 
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/PyData-hvPlot-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
+[<img alt="DjangoREST" src="https://img.shields.io/badge/sklearn-balanced accuracy score-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/scikit-learn-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/user_guide.html)
-  
+[<img alt="DjangoREST" src="https://img.shields.io/badge/sklearn-confusion matrix-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+
+[<img alt="DjangoREST" src="https://img.shields.io/badge/imblearn-classification report imbalanced-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](http://glemaitre.github.io/imbalanced-learn/generated/imblearn.metrics.classification_report_imbalanced.html)
+
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
