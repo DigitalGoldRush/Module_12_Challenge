@@ -1,20 +1,16 @@
 # Module_12_Challenge
-Supervised Machine Learning
 
-## Unsupervised Machine Learning: A novel approach to investment portfolios based on cryptocurrencies
-
+## Supervised Machine Learning: Building a logistic regression model to identify creditworthiness of borrowers.
 ---
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:6px ; height:4px " >](https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg)
+<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="left" height="500" width="450" ></a>
 
-### Building a crypto-based financial prototype using:
-  - ### Jupyter Notebook
-  - ### Python
-  - ### Pandas
-### Evaluate crypto performance over different periods
-### Techniques used:
-  - ### Data Normalization with Standard Scaler
-  - ### Clustering with K-Means & PCA
-  - ### HV PLot for Comparative Visualizations
+### Using an imbalanced-learn library to compare two versions of the dataset using a logistic regression model:
+  - ### Get a count of the target classes
+  - ### Train a logistic regression classifier
+  - ### Calculate a balanced accuracy score
+  - ### Generate a confusion matrix
+  - ### Generate a classification report
+
 ---
 
 ## Technology Used
