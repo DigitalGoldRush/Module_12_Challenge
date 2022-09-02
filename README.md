@@ -4,7 +4,7 @@ Supervised Machine Learning
 ## Unsupervised Machine Learning: A novel approach to investment portfolios based on cryptocurrencies
 
 ---
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module_10_Challenge/blob/main/Resources/guerrillabuzz-crypto-pr-p9DzBzWhMls-unsplash.jpg)
+![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:6px ; height:4px " >](https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg)
 
 ### Building a crypto-based financial prototype using:
   - ### Jupyter Notebook
