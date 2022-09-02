@@ -2,7 +2,7 @@
 
 ## Supervised Machine Learning: Building a logistic regression model to identify creditworthiness of borrowers.
 ---
-<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="center height="500" width="450" ></a>
+<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="center" height="500" width="450" ></a>
 
 ### Using an imbalanced-learn library to compare two versions of the dataset using a logistic regression model:
   - ### Get a count of the target classes
@@ -47,34 +47,20 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-### 2. SciKit can be installed with pip:
+### 2. Imbalanced learn can be installed with pip:
   ```
-$ pip install -U scikit-learn
+$ pip install -U imbalanced-learn
 
 ```
   - ### Or using the conda command
  ```
-$ conda create -n sklearn-env -c conda-forge scikit-learn
-$ conda activate sklearn-env
+$ conda install -c glemaitre imbalanced-learn
   ```
-### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
+### 3. To install scikit-learn:
 ```
-$ import pandas
+$ pip install -U scikit-learn
 ```
-### 4. Recommended way to install hvPLot is using the conda command
-  ```
- conda install -c pyviz hvplot
-``` 
-   - ### Or using PyPI
-```
-pip install hvplot
-```
----
-## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
-### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-## [hvPlot Usage](https://hvplot.holoviz.org/index.html)
-### hvPlot has many features, which was used in the code creation, and can be found at the link above. 
 ---
 ## Contributors
 
